@@ -18,9 +18,9 @@ This project explores various supervised learning classifiers to predict whether
 ---
 ## Important Links
 
-[Bank Term Deposit Marketing Dataset](https://github.com/amitkushwaha2000/AIML_17.1_Comparing_Classifiers/blob/main/bank-additional-full.csv)
+[Bank Term Deposit Marketing Dataset](https://github.com/amitkushwaha2000/AIML_PA_17.1_Comparing_Classifiers/blob/main/bank-additional-full.csv)
 
-[Jupyter Notebook](https://github.com/amitkushwaha2000/AIML_17.1_Comparing_Classifiers/blob/main/prompt_III_AK.ipynb)
+[Jupyter Notebook](https://github.com/amitkushwaha2000/AIML_PA_17.1_Comparing_Classifiers/blob/main/prompt_III_AK.ipynb)
 
 ---
 
@@ -85,7 +85,7 @@ This project explores various supervised learning classifiers to predict whether
 
 The top 10 influential features (by absolute coefficient value):
 
-![Top Logistic Regression Features](images/9649e661-d505-4f56-b25e-c4ee129e6626.png)
+![Top Logistic Regression Features](https://github.com/amitkushwaha2000/AIML_PA_17.1_Comparing_Classifiers/blob/main/LogReg%20To%20Influential%20Features.png)
 
 **Key Interpretations:**
 
