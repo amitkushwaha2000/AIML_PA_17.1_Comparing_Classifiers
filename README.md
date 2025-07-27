@@ -1,4 +1,4 @@
-# AIML_17.1_Comparing_Classifiers
+# AIML_PA_17.1_Comparing_Classifiers
 
 --- 
 
